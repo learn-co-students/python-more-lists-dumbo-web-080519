@@ -1,3 +1,3 @@
 Download and open in iPython Notebooks
 
-<a href='https://learn.co/lessons/python-more-lists' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/python-more-lists' title='Download and open in iPython Notebooks'>Download and open in iPython Notebooks</a> on Learn.co and start learning to code for free.</p>
